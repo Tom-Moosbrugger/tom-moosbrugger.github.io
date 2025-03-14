@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://tom-moosbrugger.github.io/',
-  title: 'JS.',
+  title: 'TM.',
 }
 
 const about = {
@@ -10,7 +10,7 @@ const about = {
   role: 'Full-Stack Software Engineer',
   description:
     `I'm passionate about crafting elegant and efficient applications and websites. Whether I'm designing high-performance APIs with Flask or Express or developing intuitive React interfaces, I prioritize scalable code and exceptional user experiences.`,
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/1Cvvajlk2F50yuUUvi_Fd4sEjQXoQdTQo/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/tom-moosbrugger/',
     github: 'https://github.com/Tom-Moosbrugger',
